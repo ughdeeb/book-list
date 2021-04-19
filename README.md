@@ -1,6 +1,6 @@
 # # Traversy Modern Javascript Project
 
-## Project Title: Number Guesser Project
+## Project Title: Book List Project
 
 ### Project Objective: More experience with vanilla javascript
 
